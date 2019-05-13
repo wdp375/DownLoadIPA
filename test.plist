@@ -12,7 +12,7 @@
                     <string>software-package</string>
                     <key>url</key>
                     //这个地方写ipa地址
-                    <string>http://123.123.123.123:1111/maarrytask.ipa</string>
+                    <string>https://github.com/wdp375/DownLoadIPA/blob/master/FindBLE.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
