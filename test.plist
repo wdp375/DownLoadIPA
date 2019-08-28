@@ -11,8 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    //这个地方写ipa地址
-                    <string>https://github.com/wdp375/DownLoadIPA/blob/master/钉钉.ipa</string>
+                    <string>https://gitee.com/crazyclub/IPADownLoad/raw/master/dingding.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
