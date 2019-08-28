@@ -12,7 +12,7 @@
                     <string>software-package</string>
                     <key>url</key>
                     //这个地方写ipa地址
-                    <string>https://github.com/wdp375/DownLoadIPA/blob/master/FindBLE.ipa</string>
+                    <string>https://github.com/wdp375/DownLoadIPA/blob/master/钉钉.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -34,13 +34,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.netease.FindBLE</string>
+                <string>com.laiwang.DingTalk</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>4.7.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>packName</string>
+                <string>DingTalk</string>
             </dict>
         </dict>
     </array>
